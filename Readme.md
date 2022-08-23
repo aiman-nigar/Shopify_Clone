@@ -7,6 +7,6 @@ This one is a Shopify clone which is made using Tailwind CSS.
 
 ![Project-2 Tailwind ScreenShot:](SS1.png "Shopify Clone")
 
-> ### *09 Hour 30 minutes*
+> ### Time taken: *09 Hour 30 minutes*
 
 > ### The link to the site: [Shopify clone](https://aim-shopify-clone.netlify.app/)
